@@ -1,0 +1,15 @@
+{
+  "name": "com.bustedbunny.ecsutility",
+  "version": "0.1.0",
+  "displayName": "Unity ECS Utility Package",
+  "description": "This package contains a number of Unity ECS utility methods and singleton struct system.",
+  "unity": "2022.2",
+  "unityRelease": "1f1",
+  "dependencies": {
+    "com.unity.entities": "1.0.0-pre.15"
+  },
+  "author": {
+    "name": "bustedbunny",
+    "email": "bustedbunny@bk.ru"
+  }
+}
